@@ -1,0 +1,3 @@
+rootProject.name = 'CardAnis'
+
+include ':app'
